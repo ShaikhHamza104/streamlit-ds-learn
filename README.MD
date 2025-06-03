@@ -54,7 +54,7 @@ streamlit-ds-learn/
 ## 🚀 Getting Started
 1. **Clone the repo:**
    ```bash
-   git clone https://github.com/yourusername/streamlit-ds-learn.git
+   https://github.com/ShaikhHamza104/streamlit-ds-learn.git
    cd streamlit-ds-learn
    ```
 
