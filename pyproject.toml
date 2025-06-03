@@ -1,0 +1,19 @@
+[project]
+name = "streamlit-ds-learn"
+version = "0.1.0"
+description = "This repository, streamlit-ds-learn, is designed to help users learn and explore data science concepts using Streamlit, a powerful app framework for Machine Learning and Data Science projects. It includes interactive examples and components that demonstrate how to build engaging data-driven applications with Streamlit. The project is structured to provide hands-on experience with various Streamlit features, making it an excellent resource for both beginners and experienced data scientists looking to enhance their skill"
+readme = "README.md"
+requires-python = ">=3.10"
+dependencies = [
+    "matplotlib>=3.10.0",
+    "numpy>=2.1.3",
+    "pandas>=2.2.3",
+    "pip==23.0.1",
+    "plotly>=6.1.2",
+    "plotly-express>=0.4.1",
+    "seaborn>=0.13.2",
+    "setuptools==65.5.0",
+    "streamlit>=1.45.1",
+    "streamlit-pandas-profiling>=0.1.3",
+    "ydata-profiling>=4.16.1",
+]
